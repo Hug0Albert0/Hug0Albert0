@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hug0Albert0
+- ⚡ Always focused on improve myself
 
 <!---
 Hug0Albert0/Hug0Albert0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
